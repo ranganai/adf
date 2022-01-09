@@ -1,0 +1,9 @@
+{
+	"name": "adftec",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0fba15ff-93c7-40c8-a029-5b3a8fa9b071",
+		"tenantId": "08f9cc57-c6a9-409e-81a2-a1155a2d81d5"
+	}
+}
